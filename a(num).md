@@ -1,1 +1,7 @@
-ачисло
+abc(def)(point(x))
+calc(window)(x)
+(0)(0)(0)(0)(0)(0)(0)(0)(char)
+point(x)(int)
+(0)(false)(bool)
+(1)(true)(bool)
+01010110(char)
